@@ -1,7 +1,3 @@
-Certainly, here's a quality README file for deploying a Kubernetes cluster on DigitalOcean using Terraform with kubeadm, Ubuntu, and an ingress controller:
-
----
-
 # Kubernetes Cluster Deployment on DigitalOcean with Terraform
 
 This guide will help you deploy a Kubernetes cluster on DigitalOcean using Terraform, utilizing kubeadm for Kubernetes component installation. This setup also includes Ubuntu as the operating system and includes an ingress controller by default.
@@ -107,7 +103,3 @@ You should see the list of nodes in your Kubernetes cluster.
 ## Congratulations!
 
 You have successfully deployed a Kubernetes cluster on DigitalOcean using Terraform, with Ubuntu as the operating system and an ingress controller included.
-
----
-
-Feel free to modify and enhance this README to match your project's specific needs. It provides clear instructions for users to deploy the Kubernetes cluster effortlessly.
